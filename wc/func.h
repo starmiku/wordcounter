@@ -10,6 +10,9 @@ void GetWord(FILE *);
 void GetLine(FILE *);
 //获取行数
 
+void MoreData(FILE *);
+//获取代码行 / 空行 / 注释行
+
 void test();
 //通用测试
 
