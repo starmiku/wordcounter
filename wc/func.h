@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include <stdio.h>
 
-void GetLetter();
+void GetLetter(FILE *);
 //获取字符数
 
 void GetWord(FILE *);
@@ -11,4 +11,7 @@ void GetLine(FILE *);
 //获取行数
 
 void test();
-//测试函数
+//通用测试
+
+void quicktest();
+//本地测试
