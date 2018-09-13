@@ -2,7 +2,7 @@
 个人项目：wc
 
 操作命令:
-   * ./wc.exe [filename] [parameter]
+   * ./wc.exe [parameter]  [filename]
 
 功能指令 :
    * -c 返回文件的字符数
