@@ -15,6 +15,3 @@ void MoreData(FILE *);
 
 void test();
 //通用测试
-
-void quicktest();
-//本地测试
