@@ -1,5 +1,4 @@
-# xiangmu_wc
-个人项目：wc
+# wordcounter
 
 操作命令:
    * ./wc.exe [parameter]  [filename]
